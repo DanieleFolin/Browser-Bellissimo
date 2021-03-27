@@ -1,0 +1,28 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Browser"
+        xmlns:Controls="clr-namespace:Microsoft.Toolkit.Wpf.UI.Controls;assembly=Microsoft.Toolkit.Wpf.UI.Controls.WebView" x:Class="Browser.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10.001"/>
+            <RowDefinition Height="424.039"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="srcButton" Content="Button" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="37" Click="srcButton_onClick" Grid.RowSpan="2"/>
+        <Controls:WebView x:Name="myWebview" HorizontalAlignment="Center" Height="398" Margin="0,26,0,0" VerticalAlignment="Top" Width="800" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+            <Controls:WebView.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0"/>
+                </TransformGroup>
+            </Controls:WebView.RenderTransform>
+        </Controls:WebView>
+        <TextBox KeyDown="URLBox_KeyDown"  HorizontalAlignment="Left" x:Name="URLBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="763" Height="36" Margin="37,0,0,0" Grid.RowSpan="2"/>
+    </Grid>
+</Window>
