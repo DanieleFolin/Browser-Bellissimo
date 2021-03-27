@@ -19,3 +19,24 @@ D:\Users\danie\Desktop\Scuola 2020-21\Sistemi\Browser\Browser\obj\Debug\netcorea
 D:\Users\danie\Desktop\Scuola 2020-21\Sistemi\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
 D:\Users\danie\Desktop\Scuola 2020-21\Sistemi\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.genruntimeconfig.cache
 D:\Users\danie\Desktop\Scuola 2020-21\Sistemi\Browser\Browser\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.WebView.dll
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.exe
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.deps.json
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.json
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.runtimeconfig.dev.json
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.dll
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Browser.pdb
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.WebView.dll
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csprojAssemblyReference.cache
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.cache
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser_MarkupCompile.lref
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.g.resources
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfoInputs.cache
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.AssemblyInfo.cs
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CoreCompileInputs.cache
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.csproj.CopyComplete
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.dll
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.pdb
+C:\Users\Lorenzo\Documents\GitHub\Browser-Bellissimo\Browser\Browser\obj\Debug\netcoreapp3.1\Browser.genruntimeconfig.cache

@@ -518,23 +518,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\danie\\.nuget\\packages\\": {},
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\danie\\Desktop\\Scuola 2020-21\\Sistemi\\Browser\\Browser\\Browser.csproj",
+      "projectUniqueName": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
       "projectName": "Browser",
-      "projectPath": "D:\\Users\\danie\\Desktop\\Scuola 2020-21\\Sistemi\\Browser\\Browser\\Browser.csproj",
-      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\danie\\Desktop\\Scuola 2020-21\\Sistemi\\Browser\\Browser\\obj\\",
+      "projectPath": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
+      "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -547,7 +547,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -559,7 +558,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.Toolkit.Wpf.UI.Controls.WebView": {
             "target": "Package",
@@ -585,7 +583,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

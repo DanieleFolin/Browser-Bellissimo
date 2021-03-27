@@ -7,7 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="active-search.svg" />
+    <None Remove="search--v2.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.Toolkit.Wpf.UI.Controls.WebView" Version="6.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="active-search.svg" />
+    <Resource Include="search--v2.png" />
   </ItemGroup>
 
 </Project>

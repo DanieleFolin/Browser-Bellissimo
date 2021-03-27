@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "E3b6ZyFBd72TfnLZQBSU8GHkKuWonNpsnZLHn8JpZIYnbsovPMRsxTlimydmJThLYLRtyObTUu9AUD26ReoOXA==",
+  "dgSpecHash": "Se40enfu6Ci1kb3OKjCRJI2mTlkhTwBDC+kcf+2FED5zFKCMJHRPuL0ecVamd73D06Y2WJj8GpLorgF5E6HiIg==",
   "success": true,
-  "projectFilePath": "D:\\Users\\danie\\Desktop\\Scuola 2020-21\\Sistemi\\Browser\\Browser\\Browser.csproj",
+  "projectFilePath": "C:\\Users\\Lorenzo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.toolkit.wpf.ui.controls.webview\\6.1.2\\microsoft.toolkit.wpf.ui.controls.webview.6.1.2.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
-    "C:\\Users\\danie\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\microsoft.toolkit.wpf.ui.controls.webview\\6.1.2\\microsoft.toolkit.wpf.ui.controls.webview.6.1.2.nupkg.sha512",
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.18362.2005\\microsoft.windows.sdk.contracts.10.0.18362.2005.nupkg.sha512",
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Lorenzo\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

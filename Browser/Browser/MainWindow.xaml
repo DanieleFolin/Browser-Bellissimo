@@ -6,14 +6,12 @@
         xmlns:local="clr-namespace:Browser"
         xmlns:Controls="clr-namespace:Microsoft.Toolkit.Wpf.UI.Controls;assembly=Microsoft.Toolkit.Wpf.UI.Controls.WebView" x:Class="Browser.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Grid.RowDefinitions>
-            <RowDefinition Height="10.001"/>
-            <RowDefinition Height="424.039"/>
-        </Grid.RowDefinitions>
-        <Button x:Name="srcButton" Content="Button" HorizontalAlignment="Left" Height="36" VerticalAlignment="Top" Width="37" Click="srcButton_onClick" Grid.RowSpan="2"/>
-        <Controls:WebView x:Name="myWebview" HorizontalAlignment="Center" Height="398" Margin="0,26,0,0" VerticalAlignment="Top" Width="800" RenderTransformOrigin="0.5,0.5" Grid.Row="1">
+        Title="MainWindow" Height="450" Width="800" WindowState="Maximized">
+    <Grid Margin="0,0,0,-101">
+        <Button x:Name="srcButton" Click="srcButton_onClick" Margin="758,0,0,499" Opacity="0">
+        </Button>
+        <Image Source="/search--v2.png" Width="20" Height="20" Panel.ZIndex="0" Margin="0,8,11,0" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Controls:WebView x:Name="myWebview" RenderTransformOrigin="0.5,0.5" Margin="0,36,0,34">
             <Controls:WebView.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
@@ -23,6 +21,6 @@
                 </TransformGroup>
             </Controls:WebView.RenderTransform>
         </Controls:WebView>
-        <TextBox KeyDown="URLBox_KeyDown"  HorizontalAlignment="Left" x:Name="URLBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="763" Height="36" Margin="37,0,0,0" Grid.RowSpan="2"/>
+        <TextBox KeyDown="URLBox_KeyDown" x:Name="URLBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Margin="0,0,42,0"/>
     </Grid>
 </Window>
