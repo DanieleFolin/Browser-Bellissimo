@@ -1,44 +1,46 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
 using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Browser
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         public MainWindow()
         {
             InitializeComponent();
+            backButton.IsEnabled = false;
         }
 
         private void srcButton_onClick(object sender, RoutedEventArgs e)
         {
-
-            myWebview.Navigate(URLBox.Text.ToString());
-            
+            try
+            {
+                myWebview.Navigate(URLBox.Text.ToString());
+            } catch(Exception ex)
+            {
+                MessageBox.Show("Insert a valid URL: " + ex.Message);
+            }
         }
 
         private void URLBox_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.Return)
             {
-                myWebview.Navigate(URLBox.Text.ToString());
+                try
+                {
+                    myWebview.Navigate(URLBox.Text.ToString());
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Insert a valid URL: " + ex.Message);
+                }
             }
+        }
+
+        private void backButton_Click(object sender, RoutedEventArgs e)
+        {
+
         }
 
         /*

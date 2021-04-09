@@ -8,10 +8,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" WindowState="Maximized">
     <Grid Margin="0,0,0,-101">
-        <Button x:Name="srcButton" Click="srcButton_onClick" Opacity="1" Background="White" Height="36" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" Foreground="Black" BorderBrush="White" IsHitTestVisible="False">
+        <Button x:Name="srcButton" Click="srcButton_onClick" Opacity="1" Background="White" Height="36" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" Foreground="Black" BorderBrush="White">
             <Image Source="/search--v2.png"/>
         </Button>
-        <Button x:Name="srcButton_Copy" Click="srcButton_onClick" Opacity="1" Height="36" VerticalAlignment="Top" Visibility="Visible" Background="White" Foreground="Black" HorizontalAlignment="Left" Width="42" BorderBrush="White" >
+        <Button x:Name="backButton" Click="backButton_Click" Opacity="1" Height="36" VerticalAlignment="Top" Visibility="Visible" Background="White" Foreground="Black" HorizontalAlignment="Left" Width="42" BorderBrush="White" >
             <Image Source="/back.png"/>
         </Button>
 

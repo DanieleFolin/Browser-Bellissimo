@@ -518,26 +518,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lollo\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Users\\Utente\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lollo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Source\\Repos\\DanieleFolin\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
       "projectName": "Browser",
-      "projectPath": "C:\\Users\\lollo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
-      "packagesPath": "C:\\Users\\lollo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lollo\\Documents\\GitHub\\Browser-Bellissimo\\Browser\\Browser\\obj\\",
+      "projectPath": "C:\\Users\\Utente\\Source\\Repos\\DanieleFolin\\Browser-Bellissimo\\Browser\\Browser\\Browser.csproj",
+      "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Utente\\Source\\Repos\\DanieleFolin\\Browser-Bellissimo\\Browser\\Browser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\lollo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Utente\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
