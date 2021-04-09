@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <None Remove="active-search.svg" />
+    <None Remove="back.png" />
+    <None Remove="backIcon.png" />
     <None Remove="search--v2.png" />
   </ItemGroup>
 
@@ -17,6 +19,8 @@
 
   <ItemGroup>
     <Resource Include="active-search.svg" />
+    <Resource Include="back.png" />
+    <Resource Include="backIcon.png" />
     <Resource Include="search--v2.png" />
   </ItemGroup>
 

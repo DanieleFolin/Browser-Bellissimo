@@ -8,9 +8,13 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" WindowState="Maximized">
     <Grid Margin="0,0,0,-101">
-        <Button x:Name="srcButton" Click="srcButton_onClick" Margin="758,0,0,499" Opacity="0">
+        <Button x:Name="srcButton" Click="srcButton_onClick" Opacity="1" Background="White" Height="36" VerticalAlignment="Top" HorizontalAlignment="Right" Width="42" Foreground="Black" BorderBrush="White" IsHitTestVisible="False">
+            <Image Source="/search--v2.png"/>
         </Button>
-        <Image Source="/search--v2.png" Width="20" Height="20" Panel.ZIndex="0" Margin="0,8,11,0" HorizontalAlignment="Right" VerticalAlignment="Top"/>
+        <Button x:Name="srcButton_Copy" Click="srcButton_onClick" Opacity="1" Height="36" VerticalAlignment="Top" Visibility="Visible" Background="White" Foreground="Black" HorizontalAlignment="Left" Width="42" BorderBrush="White" >
+            <Image Source="/back.png"/>
+        </Button>
+
         <Controls:WebView x:Name="myWebview" RenderTransformOrigin="0.5,0.5" Margin="0,36,0,34">
             <Controls:WebView.RenderTransform>
                 <TransformGroup>
@@ -21,6 +25,7 @@
                 </TransformGroup>
             </Controls:WebView.RenderTransform>
         </Controls:WebView>
-        <TextBox KeyDown="URLBox_KeyDown" x:Name="URLBox" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Margin="0,0,42,0"/>
+        <TextBox KeyDown="URLBox_KeyDown" x:Name="URLBox" TextWrapping="Wrap" Margin="42,0,42,0" Height="36" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
